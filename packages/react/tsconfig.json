@@ -1,0 +1,4 @@
+{
+    "extends": "@wakanda-book-wise-ui/ts-config/react.json",
+    "include": ["src"]
+}

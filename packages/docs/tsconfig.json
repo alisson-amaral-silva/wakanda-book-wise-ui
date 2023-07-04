@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+      "jsx": "react"
+  },
+  "extends": "@wakanda-book-wise-ui/ts-config/base.json",
+  "include": ["src", "../react/index.tsx"]
+}

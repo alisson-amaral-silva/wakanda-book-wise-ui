@@ -1,0 +1,7 @@
+# @wakanda-book-wise-ui/tokens
+
+## 1.1.0
+
+### Minor Changes
+
+- add new test new color

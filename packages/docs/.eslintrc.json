@@ -1,0 +1,3 @@
+{
+  "extends": "@wakanda-book-wise-ui/eslint-config"
+}
